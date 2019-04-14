@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+export default (${1:params}) => {", "  $0", "}
+]]></content >
+  <description>Export default function in ES7 syntax</description>
+  <tabTrigger>edf</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

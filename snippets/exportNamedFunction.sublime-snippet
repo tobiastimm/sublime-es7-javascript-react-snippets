@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+export const ${1:functionName} = (${2:params}) => {", "  $0", "}
+]]></content >
+  <description>Export named function in ES7 syntax</description>
+  <tabTrigger>enf</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet >
